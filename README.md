@@ -1,2 +1,0 @@
-# menubook
-fredoware's menubook
